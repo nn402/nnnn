@@ -1,0 +1,21 @@
+﻿{"urls":[
+{"url":"https://raw.githubusercontent.com/nn402/nnnn/main/1.txt","name":"南南"},
+
+{"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/2e02e908-df48-4d0d-896c-b784e116f4c5.bmp", "name": "OK"},
+
+{"url":"https://raw.githubusercontent.com/nn402/nnnn/main/2.txt", "name": "1"},
+
+{"url":"https://raw.githubusercontent.com/nn402/nnnn/main/3.txt", "name": "2"},
+  
+{"url":"https://raw.githubusercontent.com/nn402/nnnn/main/4.txt", "name": "3"},
+  
+{"url":"https://raw.githubusercontent.com/nn402/nnnn/main/5.txt", "name": "4"},
+
+{"url":"http://www.饭太硬.com/tv", "name": "5"},
+
+{"url":"http://肥猫.com","name":"6"},
+{"url":"https://raw.githubusercontent.com/nn402/nnnn/main/7.txt", "name": "7"},
+{"url":"https://raw.githubusercontent.com/nn402/nnnn/main/77.txt", "name": "8"},
+{"url":"https://raw.githubusercontent.com/nn402/nnnn/main/777.txt", "name": "9"}
+]
+}
