@@ -1,4 +1,4 @@
-﻿央视频道,#genre#
+央视频道,#genre#
 
 CCTV-01 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-02 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
@@ -47,6 +47,14 @@ CCTV-17*农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/ind
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+杭州导视,http://115.234.196.165:8808/udp/233.50.201.182:5140
+杭州影视,http://115.234.196.165:8808/udp/233.50.201.176:5140
+杭州明珠,http://115.234.196.165:8808/udp/233.50.201.174:5140
+杭州生活,http://115.234.196.165:8808/udp/233.50.201.175:5140
+杭州综合,http://115.234.196.165:8808/udp/233.50.201.173:5140
+杭州青少,http://115.234.196.165:8808/udp/233.50.201.177:5140
+浙江少儿,http://115.234.196.165:8808/udp/233.50.201.138:5140
+绍兴综合,http://115.234.196.165:8808/udp/233.50.201.156:5140
 绍兴综合,http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8?zzhed
 绍兴文化影院,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
 绍兴公共频道,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8d
@@ -78,6 +86,9 @@ CCTV-17*农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/ind
 
 
 全球频道,#genre#
+凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv#http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv#http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰中文频道,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯频道,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
@@ -138,41 +149,7 @@ TVBS新闻台,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
 动物频道,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 地理野生,http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
 
-台湾,#genre#
-TVBS 新聞,http://194.87.101.118/live.m3u8?c=5
-中天新闻,http://extraott.com:80/live/7921751389/6097373662/5553.m3u8
-民視 新聞,http://194.87.101.118/live.m3u8?c=11
-寰宇新闻,http://extraott.com:80/live/7921751389/6097373662/5523.m3u8
-台视新闻,http://extraott.com:80/live/7921751389/6097373662/5501.m3u8
-年代新闻,http://extraott.com:80/live/7921751389/6097373662/5509.m3u8
-民视新闻,http://extraott.com:80/live/7921751389/6097373662/5529.m3u8
-壹电视新闻,http://extraott.com:80/live/7921751389/6097373662/5532.m3u8
-亚洲美食台,http://extraott.com:80/live/7921751389/6097373662/5566.m3u8
-三立 新聞,http://194.87.101.118/live.m3u8?c=12
-中天亚洲台,http://extraott.com:80/live/7921751389/6097373662/5555.m3u8
-東森 財經新聞,http://194.87.101.118/live.m3u8?c=14
-台視 新聞,http://194.87.101.118/live.m3u8?c=4
-年代电视,http://extraott.com:80/live/7921751389/6097373662/5508.m3u8
-鏡 新聞,http://194.87.101.118/live.m3u8?c=10
-三立台湾,http://extraott.com:80/live/7921751389/6097373662/5505.m3u8
-民视高清台,http://extraott.com:80/live/7921751389/6097373662/5530.m3u8
-东森MOMO,http://extraott.com:80/live/7921751389/6097373662/5510.m3u8
-DW,http://61.221.215.25:8800/hls/1/index.m3u8
-三立综合,http://extraott.com:80/live/7921751389/6097373662/5503.m3u8
-台视台湾台,http://extraott.com:80/live/7921751389/6097373662/5502.m3u8
-台视综合台,http://extraott.com:80/live/7921751389/6097373662/5500.m3u8
-TVBS N,http://extraott.com:80/live/7921751389/6097373662/5499.m3u8
-TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
-NHK WORLD,http://61.221.215.25:8800/hls/51/index.m3u8
-49号,http://61.221.215.25:8800/hls/49/index.m3u8
-好电视2台,http://extraott.com:80/live/7921751389/6097373662/5527.m3u8
-大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-蕃薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-LOVENATURE 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-好消息綜合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
-大爱2台,http://extraott.com:80/live/7921751389/6097373662/5548.m3u8
-动物世界 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
 
 
 卫视频道,#genre#
@@ -224,6 +201,68 @@ LOVENATURE 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 广西卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226549/index.m3u8
 广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
 黑龙江卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226532/index.m3u8
+
+台湾,#genre#
+中天新闻,https://ali.hlspull.yximgs.com/live/ctinews.flv#http://80story.us.to:8073/live.m3u8?c=4#http://103.112.184.105:8800/live.m3u8?c=2
+TVBS HD,http://80story.us.to:8073/live.m3u8?c=1
+TVBS NEWS,http://80story.us.to:8073/live.m3u8?c=2
+TVBS新闻台HD,http://80story.us.to:8073/live.m3u8?c=3
+中天新闻2,http://80story.us.to:8073/live.m3u8?c=5
+中天亚洲台,http://80story.us.to:8073/live.m3u8?c=6
+中视新闻,http://80story.us.to:8073/live.m3u8?c=7#http://103.112.184.105:8800/live.m3u8?c=1
+东森新闻,http://80story.us.to:8073/live.m3u8?c=8
+东森财经新闻HD,http://80story.us.to:8073/live.m3u8?c=9
+民视新闻台HD,http://80story.us.to:8073/live.m3u8?c=12
+镜新闻mnews,http://80story.us.to:8073/live.m3u8?c=13
+三立iNEWS,http://80story.us.to:8073/live.m3u8?c=15
+TVB Plus,http://php.jdshipin.com:8880/smt.php?id=j2_twn#http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
+TVB无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+TVB明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+亚洲卫视,https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
+
+中天新闻,http://extraott.com:80/live/7921751389/6097373662/5553.m3u8
+寰宇新闻,http://extraott.com:80/live/7921751389/6097373662/5523.m3u8
+台视新闻,http://extraott.com:80/live/7921751389/6097373662/5501.m3u8
+年代新闻,http://extraott.com:80/live/7921751389/6097373662/5509.m3u8
+民视新闻,http://extraott.com:80/live/7921751389/6097373662/5529.m3u8
+TVBS新闻,http://extraott.com:80/live/7921751389/6097373662/5499.m3u8
+EYE戏剧,http://extraott.com:80/live/7921751389/6097373662/5532.m3u8
+阿里郎,http://extraott.com:80/live/7921751389/6097373662/5566.m3u8
+TVBS 新聞,http://194.87.101.118/live.m3u8?c=5
+中天新闻,http://extraott.com:80/live/7921751389/6097373662/5553.m3u8
+民視 新聞,http://194.87.101.118/live.m3u8?c=11
+寰宇新闻,http://extraott.com:80/live/7921751389/6097373662/5523.m3u8
+台视新闻,http://extraott.com:80/live/7921751389/6097373662/5501.m3u8
+年代新闻,http://extraott.com:80/live/7921751389/6097373662/5509.m3u8
+民视新闻,http://extraott.com:80/live/7921751389/6097373662/5529.m3u8
+壹电视新闻,http://extraott.com:80/live/7921751389/6097373662/5532.m3u8
+亚洲美食台,http://extraott.com:80/live/7921751389/6097373662/5566.m3u8
+三立 新聞,http://194.87.101.118/live.m3u8?c=12
+中天亚洲台,http://extraott.com:80/live/7921751389/6097373662/5555.m3u8
+東森 財經新聞,http://194.87.101.118/live.m3u8?c=14
+台視 新聞,http://194.87.101.118/live.m3u8?c=4
+年代电视,http://extraott.com:80/live/7921751389/6097373662/5508.m3u8
+鏡 新聞,http://194.87.101.118/live.m3u8?c=10
+三立台湾,http://extraott.com:80/live/7921751389/6097373662/5505.m3u8
+民视高清台,http://extraott.com:80/live/7921751389/6097373662/5530.m3u8
+东森MOMO,http://extraott.com:80/live/7921751389/6097373662/5510.m3u8
+DW,http://61.221.215.25:8800/hls/1/index.m3u8
+三立综合,http://extraott.com:80/live/7921751389/6097373662/5503.m3u8
+台视台湾台,http://extraott.com:80/live/7921751389/6097373662/5502.m3u8
+台视综合台,http://extraott.com:80/live/7921751389/6097373662/5500.m3u8
+TVBS N,http://extraott.com:80/live/7921751389/6097373662/5499.m3u8
+TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
+NHK WORLD,http://61.221.215.25:8800/hls/51/index.m3u8
+49号,http://61.221.215.25:8800/hls/49/index.m3u8
+好电视2台,http://extraott.com:80/live/7921751389/6097373662/5527.m3u8
+大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+蕃薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+LOVENATURE 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+好消息綜合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+大爱2台,http://extraott.com:80/live/7921751389/6097373662/5548.m3u8
+动物世界 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 电影频道,#genre#
 邵氏影院,http://159.75.85.63:35455/douyu/4246519#https://www.goodiptv.club/douyu/4246519#http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
